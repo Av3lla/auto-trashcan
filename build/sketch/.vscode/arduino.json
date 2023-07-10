@@ -1,0 +1,7 @@
+#line 1 "C:\\Users\\iclee\\Programming\\Arduino\\trashcan\\.vscode\\arduino.json"
+{
+    "sketch": "trashcan.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
